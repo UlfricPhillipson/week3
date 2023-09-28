@@ -1,0 +1,46 @@
+body{
+    /* this is the bodyselector
+    setting the background-color property to the value you of dark violet-ish
+    setting the text color (foreground) property to navy-ish
+    */
+    background-color: darkviolet;
+    color: lavender;
+}
+/*
+    this section sets the dimension
+*/
+header{
+    margin-right: 200px;
+}
+
+
+
+#memeImage{
+    margin-right: 200px;
+    height: 600px;
+    width: 600px;
+    float: left;
+    padding: 5px;
+}
+nav{
+    height: 400px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+
+}
+
+
+/*
+    this is the footer section - generally the footer will be at the bottom of the page
+*/
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+
+/*
+    the img with an id of memeImage will be affected by this style change hieght and width too make memeimage fit page better
+*/
+
